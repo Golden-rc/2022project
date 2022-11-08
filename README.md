@@ -1,5 +1,5 @@
 # 2022project
-开源软件基础大作业\n
+开源软件基础大作业'\n'
 stack-overflow-developer-survey-2022.zip\n
 里面是要分析的数据集，还包含了问卷内容。\n
 我们主要是对2022年StackOverflow的调查结果进行分析\n
