@@ -1,7 +1,7 @@
 # 2022project
 ## 开源软件基础大作业
 stack-overflow-developer-survey-2022.zip里面是要分析的数据集，还包含了问卷内容。\
-直接下csv文件和pdf也行，分别是数据和对应的调查问卷
+数据集的文件太大了直接传不上来，所以直接下压缩包吧\
 我们主要是对2022年StackOverflow的调查结果进行分析\
 可以参考历年StackOverflow的官方统计，直接能搜到\
 提交方式是jupyter notebook，带着运行结果。\
